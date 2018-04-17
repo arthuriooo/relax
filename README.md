@@ -1,4 +1,4 @@
-# InDoc
+# Relax
 
 ## Project for fun
 ### There is a relaxing thing over there in the site
